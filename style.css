@@ -1,0 +1,60 @@
+body {
+    background: #192a56 !important;
+}
+
+.todoOne-part {}
+
+.card {
+    height: 100vh !important;
+    background: #2c3e50 !important;
+}
+
+h5 {
+    color: #ffffff;
+    font-size: 5rem !important;
+}
+
+.input-btn {
+    width: 45vh !important;
+}
+
+.btn {
+    background-color: #00a8ff !important;
+    border: none !important;
+    color: black !important;
+
+}
+
+.btn:hover {
+    color: white !important;
+    background-color: #192a56 !important;
+    border: none !important;
+
+}
+
+/* js style */
+.li-style{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    background: #000;
+    padding:8px;
+    border-radius: 5px 5px 5px 5px;
+    color: rgb(230, 247, 52);
+    
+}
+.btn-js{ 
+  border: none;
+  color: red;
+  border-radius: 50%;
+   
+ 
+}
+
+.bg-sucess{
+    background: rgb(101, 179, 5);
+    color:#ffffff;
+    padding: 5px;
+    border-left: 10px solid rgb(252, 252, 252);
+    margin-top:0.5rem;
+}
